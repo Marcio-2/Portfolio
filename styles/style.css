@@ -120,10 +120,10 @@ img{
     color: #572727; 
 }
 .proyect .list1{
-    DISPLAY: flex;
-    flex-direction: column;
-    gap: 11px;
-   
+    display: flex;
+    flex-direction:column;
+    font-family: math;
+    color: #572727;
 }
 .list1 a{
     color: #572727;
