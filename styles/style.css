@@ -173,9 +173,10 @@ img {
   list-style: none;
   font-size: 18px;
 }
-.last-part .email {
+.last-part .email a{
   display: flex;
   justify-content: center;
+  text-decoration: none;
   color: #b2a5a5;
   list-style: none;
   font-size: 18px;
